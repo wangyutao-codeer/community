@@ -1,4 +1,4 @@
-package com.kaikeba.community.pojo;
+package com.kaikeba.community.Dto;
 
 public class GithubUser {
     private String name;
